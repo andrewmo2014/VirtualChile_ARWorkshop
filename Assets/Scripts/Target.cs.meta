@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edc363e5d45b9442dadb7c6927fdf908
+timeCreated: 1459734282
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - punchMaterial: {fileID: 2100000, guid: 5a066dd489d3644889d15590e8d5cc94, type: 2}
+  - kickMaterial: {fileID: 2100000, guid: 2861b3e7833a84a068d32438d4344426, type: 2}
+  - explosionPrefab: {fileID: 486038, guid: aa0566000f3df4c74a3af3ae6756dbd0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

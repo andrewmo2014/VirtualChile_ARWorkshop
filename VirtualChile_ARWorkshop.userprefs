@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="4" Column="37" />
+      <File FileName="Assets/Scripts/TriggerTarget.cs" Line="10" Column="2" />
+      <File FileName="Assets/Scripts/Target.cs" Line="69" Column="3" />
+      <File FileName="Assets/Scripts/DestroyAfter.cs" Line="5" Column="2" />
+      <File FileName="Assets/Scripts/FollowTarget.cs" Line="9" Column="2" />
+      <File FileName="Assets/Scripts/PlayOnce.cs" Line="9" Column="59" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
